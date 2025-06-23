@@ -19,6 +19,7 @@
 
 # Environment file updated for modern standards as of June 2025
 name: updated-ml-environment
+image: mcr.microsoft.com/azureml/openmpi4.1.0-ubuntu22.04:latest
 channels:
   - conda-forge
   - defaults
