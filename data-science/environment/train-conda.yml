@@ -29,9 +29,9 @@ dependencies:
   - pip:
       # --- Azure ML Core Libraries ---
       # The v2 SDK for Azure ML, updated to a plausible future version.
-      - azure-ai-ml==1.17.0
+      - azure-ai-ml
       # The MLflow library for Azure ML, updated.
-      - azureml-mlflow==1.55.0
+      - azureml-mlflow
 
       # --- Core Data Science & ML Libraries ---
       # Pandas 3.x series leverages Apache Arrow for major performance gains.
