@@ -35,7 +35,7 @@ dependencies:
 
       # --- Core Data Science & ML Libraries ---
       # Pandas 3.x series leverages Apache Arrow for major performance gains.
-      - pandas==3.0.0
+      - pandas==2.2.2
       # PyArrow is a key dependency for modern Pandas.
       - pyarrow==18.0.0
       # Latest stable scikit-learn version.
