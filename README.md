@@ -1,2 +1,2 @@
 # MLOps_course
-# testing git
+MLOps Azure Project
